@@ -1,0 +1,23 @@
+.block {
+  width: 100%;
+  }
+
+.login_block {
+margin: 10% auto;
+background-color: rgb(236, 236, 236);
+display: flex;
+justify-content: space-around;
+flex-direction: column;
+align-items: center;
+width: 50%;
+border: 1px solid teal;
+border-radius: 10px;
+}
+
+input {
+  width: 80%;
+  padding: 5px 15px;
+  margin: 5px 0;
+  border: 1px solid teal;
+  border-radius: 5px;
+}
