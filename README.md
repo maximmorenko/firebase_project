@@ -20,3 +20,6 @@ git add .
 git commit -m "логин блок со стилями через классы" 
 git push origin master
 =====
+установка firebase:
+npm i firebase
+=====
